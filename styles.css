@@ -1,0 +1,28 @@
+
+footer {
+    display:flex;
+    position: absolute;
+    width: 1440px;
+    height: 338px;
+    background: white;
+}
+footer .hr{
+    text-align: left;
+    width: min-content;
+}
+
+footer .f1{
+    position: absolute;
+    width: 53px;
+    height: 21px;
+    left: 352px;
+    top: 135px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
